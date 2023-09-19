@@ -1,3 +1,7 @@
+---
+title: First post!
+
+---
 FIFA Dünya Kupası: Futbolun En Büyük Sahnesi
 
 FIFA Dünya Kupası, dünya futbolunun en prestijli ve heyecan verici turnuvası olarak kabul edilir. Bu büyüleyici etkinlik, her dört yılda bir dünya çapında birleşen futbol tutkunlarını büyülüyor. İlk kez 1930 yılında düzenlenen bu etkinlik, o zamandan beri futbolun zirvesini temsil ediyor.
