@@ -1,24 +1,11 @@
----
-layout: default
-title: Chulapa on remote
-header_type: hero
-subtitle: Starter pack
----
+FIFA Dünya Kupası: Futbolun En Büyük Sahnesi
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+FIFA Dünya Kupası, dünya futbolunun en prestijli ve heyecan verici turnuvası olarak kabul edilir. Bu büyüleyici etkinlik, her dört yılda bir dünya çapında birleşen futbol tutkunlarını büyülüyor. İlk kez 1930 yılında düzenlenen bu etkinlik, o zamandan beri futbolun zirvesini temsil ediyor.
 
-Contains basic configuration to get you a site with:
+Dünya Kupası, uluslararası futbolun en iyi takımlarının kozlarını paylaştığı bir platformdur. Her kıtadan gelen takımların katıldığı turnuva, futbolun evrensel bir dil olduğunu kanıtlıyor. Dünya Kupası maçları, oyuncuların ve taraftarların birleştiği, rekabetin en yüksek seviyede yaşandığı unutulmaz anlar sunar.
 
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
+Turnuva, yıllar içinde birçok unutulmaz anı ve efsanevi futbolcuların doğduğu bir sahne haline geldi. Pele, Diego Maradona, Zinedine Zidane ve Lionel Messi gibi büyük oyuncular, Dünya Kupası'nda iz bırakarak futbol tarihine adlarını altın harflerle yazdılar.
 
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
+FIFA Dünya Kupası aynı zamanda ev sahibi ülkeler için büyük bir onur ve sorumluluk taşır. Ev sahibi ülke, dünyaya futbolun en iyilerini ağırlamanın gururunu yaşar ve stadyumlarında coşkulu bir atmosfer oluşturur.
 
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+Sonuç olarak, FIFA Dünya Kupası, futbolun büyüsünü yaşatan bir şölen ve küresel bir birleştirici bir etkinlik olarak önemini sürdürmektedir. Her dört yılda bir milyonlarca insanın bir araya gelip futbolun büyüsünü yaşadığı bu olağanüstü turnuva, futbolseverler için vazgeçilmezdir ve gelecekte de bu büyüleyici geleneği sürdürecektir.
